@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NearbyAirports</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="str_nearby_airport">NEARBY AIRPORTS</string>
+    <string name="str_search">Search</string>
+</resources>
